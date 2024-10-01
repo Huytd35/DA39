@@ -1,3 +1,4 @@
+
 import cv2
 import numpy as np
 
@@ -59,3 +60,5 @@ for slot in parking_slots:
         print(f"Slot {slot} is full.")
     else:
         print(f"Slot {slot} is empty.")
+print("Hello World"
+      " This is new line")
